@@ -1,3 +1,3 @@
 # ADS-FATEC-LINS
-Atividades acadêmicas do curso de Aálise e Desenvolvimento de Sistemas, FATEC - Lins, ano 2026.
+Repositório destinado ao armazenamento de documentos e atividades realizadas no 1º semestre do curso de Análise e Desenvolvimento de Sistemas, da FATEC Lins, nas disciplinas de Algoritmos e Lógica de Programação, Engenharia de Software e Projeto Integrador I.
 
